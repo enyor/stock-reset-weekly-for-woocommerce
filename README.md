@@ -1,4 +1,4 @@
-=== Stock Reset Weekly for Woocommerce ===
+# Stock Reset Weekly for Woocommerce
 Contributors: Enyor Pina
 Tags: woocommerce, stock, auto stock, reset stock
 Requires at least: 5.0
